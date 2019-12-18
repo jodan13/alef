@@ -1,0 +1,29 @@
+// Variables Bootstrap 4
+
+$body-bg: #7000E0;
+$body-color: #111;
+
+$grid-breakpoints: (xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1200px);
+$container-max-widths: (sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1230px);
+$font-size-base: 1rem;
+$font-size-lg:($font-size-base * 1.5);
+$color-white: #ffffff;
+$color-light-bg: #e6e6e6;
+$color-light-bg-2: #f6f6f6;
+$primary:#7e00ff;
+$secondary:#ffffff;
+$dark:#7000E0;
+$light:#e6e6e6;
+$enable-gradients:false;
+
+$border-width:3px;
+$btn-border-radius:.25rem;
+$navbar-dark-toggler-border-color: $light;
+$navbar-dark-toggler-icon-bg: url("data:image/svg+xml,%3csvg aria-hidden='true' focusable='false' data-prefix='fas' data-icon='bars' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3e%3cpath fill='%237e00ff' d='M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z'%3e%3c/path%3e%3c/svg%3e");

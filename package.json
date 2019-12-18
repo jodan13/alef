@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-4",
+  "version": "2.0.0",
+  "description": "Start project with use Bootstrap 4",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^6.5.4",
+    "bootstrap": "^4.3.1",
+    "gulp-babel": "^8.0.0",
+    "jquery": "^3.3.1",
+    "jquery.scrollbar": "^0.2.11",
+    "popper.js": "^1.14.7",
+    "uglify-es": "^3.3.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify-es": "^2.0.0",
+    "imagemin-jpeg-recompress": "^6.0.0",
+    "imagemin-pngquant": "^7.0.0"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}

@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}
+
+.vh-80 {
+  height: calc(100vh - 200px);
+}
+
+.vh-10 {
+  height: 100px;
+}
+
+.rounded-circle {
+  min-width: 48px;
+  min-height: 48px;
+  background: $primary;
+}
+
+.table {
+  table-layout: fixed;
+}
+
+.navbar-brand {
+  font-size: 32px;
+}
